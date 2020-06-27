@@ -1,12 +1,12 @@
 clc
 clear
 
-%----------------------İNPUTS-----------------------------------
+%----------------------ÃNPUTS-----------------------------------
 
 %r=2.9;
 n=100;   %nufusun hesaplanacagi yil miktari
-x0=0.5; %başlangic nufusu
-m=50000;    %r sayacı
+x0=0.5; %baslangic nufusu
+m=50000;    %r sayaci
 %---------------------------------------------------------------
 xn= size(n,m);  %her bir yilin ve oranin nufusunun tutulacagi matris
 x=x0;  
