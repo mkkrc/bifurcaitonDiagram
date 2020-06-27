@@ -1,4 +1,4 @@
-# bifurcaitonDiagram
+# bifurcationDiagram
 
 Calculating population (x at 0-1 interval) of every year with the initial population and growth rate (r at 0-4 interval). 
 
